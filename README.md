@@ -1,5 +1,5 @@
 # data-hackathon
-data hackathon hosted by CFC and IBM http://www.foundationcenter.org.cn/data_hackthrone/index.html
+This is a data hackathon hosted by IBM and CFC. http://www.foundationcenter.org.cn/data_hackthrone/index.html
 
 ## **Objective**
 The objective of the project is using data mining and text analysis to evaluate the social impact of charity fund on China Foundation Center (CFC). 
