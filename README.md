@@ -25,12 +25,12 @@ The final product is deployed as an interactive webpage where users can customiz
 ![product5](https://user-images.githubusercontent.com/9781300/30252104-f0639d12-9631-11e7-846c-63bddeedb4df.PNG)
 
 
-![product1](/product/product1.png)
+![product1](/product screenshot/product1.png)
 
-![product1](/product/product2.png)
+![product1](/product screenshot/product2.png)
 
-![product1](/product/product3.png)
+![product1](/product screenshot/product3.png)
 
-![product1](/product/product4.png)
+![product1](/product screenshot/product4.png)
 
-![product1](/product/product5.png)
+![product1](/product screenshot/product5.png)
