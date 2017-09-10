@@ -45,13 +45,6 @@ score = score.sort_values(by=['score'], ascending=False)
 
 
 
-
-# 绘制word cloud
-
-
-
-
-
 # 构造情感词字典
 filename = 'sentiment_words.txt'
 senDict = {}
