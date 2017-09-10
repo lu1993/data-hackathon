@@ -125,19 +125,3 @@ if(len(Sen_Score)>1):
     np.mean(Sen_Score)
 
     
-    
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
